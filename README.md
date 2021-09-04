@@ -64,8 +64,6 @@
 - [Deploy Dialogflow bot using Google Cloud SDK (Opensource integration) on Whatsapp using Twilio](https://www.youtube.com/watch?v=8x6gFm3Z7Po)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UClA4EpwMxWB9X93T7sib76Q)
-
 ---
 
 ![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFarhan&count_private=true&show_icons=true&theme=blueberry)
