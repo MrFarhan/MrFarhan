@@ -57,6 +57,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [React UseEffect missing dependencies and complex expression warning solution](https://www.youtube.com/watch?v=r4A46oBIwZk)
+- [Send messages to WhatsApp Number with Nodejs Server || WhatsApp Hack || WhatsApp Trick](https://www.youtube.com/watch?v=6FTfjSlieNU)
+- [Connect Dialogflow with fullfilment / external webhook using express.js](https://www.youtube.com/watch?v=BRJfvtrK4Rk)
+- [Integrate Dialogflow with Facebook - Recent update](https://www.youtube.com/watch?v=QZ8Sl4tB7fk)
+- [Deploy Dialogflow bot using Google Cloud SDK (Opensource integration) on Whatsapp using Twilio](https://www.youtube.com/watch?v=8x6gFm3Z7Po)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UClA4EpwMxWB9X93T7sib76Q)
