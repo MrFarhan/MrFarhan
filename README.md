@@ -24,7 +24,7 @@
 ##### Future Plans:
 - To be the successful Youtuber.
 - Have my own team of professional devs.
-- Contribute to the comunity as much as possible
+- Contribute to the community as much as possible
 
 ### Connect with me:
 
