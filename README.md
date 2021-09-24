@@ -57,7 +57,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Send payment from Paypal to Paypal in Pakistan](https://www.youtube.com/watch?v=h4TYzUQufHQ)
+- [Send money from Paypal to Paypal in Pakistan](https://www.youtube.com/watch?v=h4TYzUQufHQ)
 - [Smartgit basic operations](https://www.youtube.com/watch?v=ECmGBlHXUZ8)
 - [Basic Github Opeartions using command Line](https://www.youtube.com/watch?v=-vKpO7VxJtY)
 - [React UseEffect missing dependencies and complex expression warning solution](https://www.youtube.com/watch?v=r4A46oBIwZk)
