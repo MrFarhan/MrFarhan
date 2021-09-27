@@ -1,27 +1,32 @@
 ## Hi there, I'm Farhan 👋 A Global Trading Executive, believe that a developer having knowledge of Commerce and business can deliver the best of the best :
 
 #### Achievement in Commerce / Business Field:
+
 - Done my PGD in Business / Commerce.
 - Have experience in working with different corporate firms related to finance.
 - Microsoft certified Ms Word and Ms Excel Specialist
 
 #### Achievement in the ~~hello~~ 🤣 world of web development:
+
 - MERN stack certification
 - Google Certified Conversational AI Chatbot Developer
-- Delivered different NLP based chat bots for different individuals on freelancing platforms 
+- Delivered different NLP based chat bots for different individuals on freelancing platforms
 
-#### What i am currently working on: 
+#### What i am currently working on:
+
 - Focusing on delivering full stack hybrid applications and created following testing applications for my portfolio:
-    - Attendance Management System
-    - Campus Recruitment System
-    - Basic COVID-19 Stats app
-    - Blood Bank
-    - SpaceX using graphql
-    - Expense Tracker
-    - Todo using Mongodb
-    - Quiz App
+  - [Attendance Management System - Live][attendancelink] - [Repo][attendancerepo]
+  - [Campus Recruitment System - Live][campuslink] - [Repo][campusrepo]
+  - [Basic COVID-19 Stats app - Live][covid19link] - [Repo][covid19repo]
+  - [Blood Bank - Live][bloodbanklink] - [Repo][bloodbankrepo]
+  - [SpaceX using graphql - Live][spacex] - [Repo][spacexrepo]
+  - [Expense Tracker - Live][expensetrackerlink] - [Repo][expensetrackerrepo]
+  - [Quiz App - Live][quizlink] - [Repo][quizrepo]
+  - [CRUD Todo using Firebase][firebaseTodoLink] - [Repo][firebaseTodoRepo]
+  - Todo using Mongodb - [Repo][mongotodorepo]
 
 ##### Future Plans:
+
 - To be the successful Youtuber.
 - Have my own team of professional devs.
 - Contribute to the community as much as possible
@@ -68,13 +73,14 @@
 
 ![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFarhan&count_private=true&show_icons=true&theme=blueberry)
 
-
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 COMING SOON
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -87,3 +93,20 @@ COMING SOON
 [jsplaylist]: https://www.youtube.com/channel/UClA4EpwMxWB9X93T7sib76Q
 [cssplaylist]: https://www.youtube.com/channel/UClA4EpwMxWB9X93T7sib76Q
 [reactplaylist]: https://www.youtube.com/channel/UClA4EpwMxWB9X93T7sib76Q
+[attendancelink]: https://attendance-management-73890.web.app/
+[attendancerepo]: https://github.com/MrFarhan/Attendance-Management-System
+[campuslink]: https://campus-recruitment-syste-2c8e3.web.app/
+[campusrepo]: https://github.com/MrFarhan/Campus-Recruitment-System-using-ReactJS
+[covid19link]: https://mrfarhan.github.io/covid-19-tracker
+[covid19repo]: https://github.com/MrFarhan/covid-19-tracker
+[bloodbanklink]: https://bloodbankapp01.web.app
+[bloodbankrepo]: https://github.com/MrFarhan/BloodApplication
+[spacex]: https://spacex-react-app.surge.sh
+[spacexrepo]: https://github.com/MrFarhan/SpaceX-Graphql
+[expensetrackerlink]: app-expense-tracker.surge.sh/
+[expensetrackerrepo]: https://github.com/MrFarhan/Expense-Tracker
+[quizlink]: http://reactjs-quiz.surge.sh/
+[quizrepo]: https://github.com/MrFarhan/Quiz-App-Using-ReactJs
+[firebaseTodoLink]: https://react-todo-7b3c4.web.app
+[firebaseTodoRepo]: https://github.com/MrFarhan/react-todo
+[mongotodorepo]: https://github.com/MrFarhan/React-Todo-MongoDB
