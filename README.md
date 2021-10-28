@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Vs code running script issue || Execution Policy Issue](https://www.youtube.com/watch?v=zVW5sIozeoU)
 - [Host Static website / Reactjs application on Github](https://www.youtube.com/watch?v=kUU4gsGQDHU)
 - [Surge deployment](https://www.youtube.com/watch?v=c6GUG-RqiH0)
 - [Firebase hosting](https://www.youtube.com/watch?v=rMAZ7jFrPy4)
 - [Send money from Paypal to Paypal in Pakistan](https://www.youtube.com/watch?v=h4TYzUQufHQ)
-- [Smartgit basic operations](https://www.youtube.com/watch?v=ECmGBlHXUZ8)
 <!-- YOUTUBE:END -->
 
 ---
