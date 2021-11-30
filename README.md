@@ -62,7 +62,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Smargit Advance Functionality](https://www.youtube.com/watch?v=4IDDIUls56c)
+- [Smargit Advance Functionalities](https://www.youtube.com/watch?v=4IDDIUls56c)
 - [Firebase Hosting - CICD](https://www.youtube.com/watch?v=uIytYFoLDkk)
 - [Vs code Execution of scripts is disabled Fixed](https://www.youtube.com/watch?v=zVW5sIozeoU)
 - [Host Static website / Reactjs application on Github](https://www.youtube.com/watch?v=kUU4gsGQDHU)
