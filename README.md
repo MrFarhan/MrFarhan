@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [React Uncontrolled input , Memory Leak , key props and bad setstate warnings Fixed](https://www.youtube.com/watch?v=MiLBu1o7t2s)
 - [Smargit Advance Functionalities](https://www.youtube.com/watch?v=4IDDIUls56c)
 - [Firebase Hosting - CICD](https://www.youtube.com/watch?v=uIytYFoLDkk)
 - [Vs code Execution of scripts is disabled Fixed](https://www.youtube.com/watch?v=zVW5sIozeoU)
 - [Host Static website / Reactjs application on Github](https://www.youtube.com/watch?v=kUU4gsGQDHU)
-- [Free website hosting on surge.sh](https://www.youtube.com/watch?v=c6GUG-RqiH0)
 <!-- YOUTUBE:END -->
 
 ---
