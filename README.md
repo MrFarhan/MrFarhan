@@ -23,6 +23,7 @@
   - [Expense Tracker - Live][expensetrackerlink] - [Repo][expensetrackerrepo]
   - [Quiz App - Live][quizlink] - [Repo][quizrepo]
   - [CRUD Todo using Firebase][firebaseTodoLink] - [Repo][firebaseTodoRepo]
+  - [Todo using Alpine & Tailwind - Live][alpinelink] - [Repo][alpinerepo]
   - Todo using Mongodb - [Repo][mongotodorepo]
 
 ##### Future Plans:
@@ -53,6 +54,10 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://avatars.githubusercontent.com/u/59030169?s=200&v=4" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://avatars.githubusercontent.com/u/33663932?s=200&v=4" />][webdevplaylist]
 
 <br />
 <br />
@@ -103,10 +108,12 @@ COMING SOON
 [bloodbankrepo]: https://github.com/MrFarhan/BloodApplication
 [spacex]: https://spacex-react-app.surge.sh
 [spacexrepo]: https://github.com/MrFarhan/SpaceX-Graphql
-[expensetrackerlink]: app-expense-tracker.surge.sh/
+[expensetrackerlink]: https://app-expense-tracker.surge.sh/
 [expensetrackerrepo]: https://github.com/MrFarhan/Expense-Tracker
 [quizlink]: http://reactjs-quiz.surge.sh/
 [quizrepo]: https://github.com/MrFarhan/Quiz-App-Using-ReactJs
-[firebaseTodoLink]: https://react-todo-7b3c4.web.app
-[firebaseTodoRepo]: https://github.com/MrFarhan/react-todo
+[firebasetodolink]: https://react-todo-7b3c4.web.app
+[firebasetodorepo]: https://github.com/MrFarhan/react-todo
+[alpinelink]: https://mrfarhan.github.io/learning-alpineJs/
+[alpinerepo]: https://github.com/MrFarhan/learning-alpineJs
 [mongotodorepo]: https://github.com/MrFarhan/React-Todo-MongoDB
