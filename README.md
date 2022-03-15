@@ -1,5 +1,7 @@
 ## Hi there, I'm Farhan 👋 A Global Trading Executive, believe that a developer having knowledge of Commerce and business can deliver the best of the best :
 
+![](https://komarev.com/ghpvc/?username=MrFarhan)
+
 #### Achievement in Commerce / Business Field:
 
 - Done my PGD in Business / Commerce.
@@ -22,8 +24,9 @@
   - [SpaceX using graphql - Live][spacex] - [Repo][spacexrepo]
   - [Expense Tracker - Live][expensetrackerlink] - [Repo][expensetrackerrepo]
   - [Quiz App - Live][quizlink] - [Repo][quizrepo]
-  - [CRUD Todo using Firebase][firebaseTodoLink] - [Repo][firebaseTodoRepo]
+  - [CRUD Todo using Firebase][firebasetodolink] - [Repo][firebasetodorepo]
   - [Todo using Alpine & Tailwind - Live][alpinelink] - [Repo][alpinerepo]
+  - [Ecommerce App without third party library (i.e bootstrap etc) - Live][bazarlink] - [Repo][bazarrepo]
   - Todo using Mongodb - [Repo][mongotodorepo]
 
 ##### Future Plans:
@@ -41,12 +44,14 @@
 
 <br />
 
+<br />
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
@@ -58,6 +63,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://avatars.githubusercontent.com/u/33663932?s=200&v=4" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][webdevplaylist]
 
 <br />
 <br />
@@ -67,12 +73,19 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Javascript Array Operations](https://www.youtube.com/watch?v=926HCE7Ke-A)
-- [Real Time Chat App  using Amazon Chime Javascript SDK](https://www.youtube.com/watch?v=XPFMZVtI6Sw)
+- [Real Time Chat App using Amazon Chime Javascript SDK](https://www.youtube.com/watch?v=XPFMZVtI6Sw)
 - [React Uncontrolled input , Memory Leak , key props and bad setstate warnings Fixed](https://www.youtube.com/watch?v=MiLBu1o7t2s)
 - [Smargit Advance Functionalities](https://www.youtube.com/watch?v=4IDDIUls56c)
 - [Firebase Hosting - CICD](https://www.youtube.com/watch?v=uIytYFoLDkk)
 <!-- YOUTUBE:END -->
+
+---
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFarhan&layout=compact)
 
 ---
 
@@ -117,3 +130,5 @@ COMING SOON
 [alpinelink]: https://mrfarhan.github.io/learning-alpineJs/
 [alpinerepo]: https://github.com/MrFarhan/learning-alpineJs
 [mongotodorepo]: https://github.com/MrFarhan/React-Todo-MongoDB
+[bazarlink]: https://next-js-ecommerce.netlify.app/
+[bazarrepo]: https://github.com/MrFarhan/Ecommerce-Nextjs
