@@ -27,6 +27,10 @@
   - [CRUD Todo using Firebase][firebasetodolink] - [Repo][firebasetodorepo]
   - [Todo using Alpine & Tailwind - Live][alpinelink] - [Repo][alpinerepo]
   - [Ecommerce App without third party library (i.e bootstrap etc) - Live][bazarlink] - [Repo][bazarrepo]
+  - [React Simple Chatbot - Live][reactsimplechatbotlink] - [Repo][reactsimplechatbotrepo] 
+  - [Heroku Server - Live][herokuserverlink] - [Repo][herokuserverrepo]
+  - [restaurant Website - Live][restaurantlink] - [Repo][restaurantrepo]
+
   - Todo using Mongodb - [Repo][mongotodorepo]
 
 ##### Future Plans:
@@ -45,6 +49,7 @@
 <br />
 
 <br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -131,3 +136,10 @@ COMING SOON
 [mongotodorepo]: https://github.com/MrFarhan/React-Todo-MongoDB
 [bazarlink]: https://next-js-ecommerce.netlify.app/
 [bazarrepo]: https://github.com/MrFarhan/Ecommerce-Nextjs
+[herokuserverlink]: https://weather-bot-101.herokuapp.com
+[herokuserverrepo]: https://github.com/MrFarhan/Heroku-Server
+[restaurantlink]: https://rs-app.surge.sh
+[restaurantrepo]: https://github.com/MrFarhan/Front-end-web-UI-using-bootstrap-4
+[reactsimplechatbotlink]: https://react-simple-chatbot.surge.sh
+[reactsimplechatbotrepo]: https://github.com/MrFarhan/React-Chat-Widget
+
