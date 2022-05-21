@@ -17,6 +17,7 @@
 #### What i am currently working on:
 
 - Focusing on delivering full stack hybrid applications and created following testing applications for my portfolio:
+
   - [Attendance Management System - Live][attendancelink] - [Repo][attendancerepo]
   - [Campus Recruitment System - Live][campuslink] - [Repo][campusrepo]
   - [Basic COVID-19 Stats app - Live][covid19link] - [Repo][covid19repo]
@@ -27,7 +28,7 @@
   - [CRUD Todo using Firebase][firebasetodolink] - [Repo][firebasetodorepo]
   - [Todo using Alpine & Tailwind - Live][alpinelink] - [Repo][alpinerepo]
   - [Ecommerce App without third party library (i.e bootstrap etc) - Live][bazarlink] - [Repo][bazarrepo]
-  - [React Simple Chatbot - Live][reactsimplechatbotlink] - [Repo][reactsimplechatbotrepo] 
+  - [React Simple Chatbot - Live][reactsimplechatbotlink] - [Repo][reactsimplechatbotrepo]
   - [Heroku Server - Live][herokuserverlink] - [Repo][herokuserverrepo]
   - [restaurant Website - Live][restaurantlink] - [Repo][restaurantrepo]
 
@@ -50,25 +51,46 @@
 
 <br />
 
-### Languages and Tools:
+### Technologies / Languages / Tools i have worked on:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://avatars.githubusercontent.com/u/59030169?s=200&v=4" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://avatars.githubusercontent.com/u/33663932?s=200&v=4" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][webdevplaylist]
+-- Frontend --
+- Html
+- Css
+- Scss
+- Javascript
+- ReactJs
+- NextJs
+- AlpineJs
+- Gatsby
+- Bootstrap
+- Material UI
+- Tailwind CSS
+- Antd
+
+-- Backend / DBs -- 
+- Nodejs / Express
+- Mongodb
+- MySQL
+- AWS
+
+-- Hosting --
+- Firebase
+- AWS Amplify
+- Netlify
+- Surge
+- GH-pages
+
+-- Other version controlling / Testing / Utilities --
+- Github (with CICD)
+- Gitlab
+- Bitbucket
+- Sanity (Headless CMS)
+- Sentry (Error Tracking)
+- Matomo (Alternative of Google Analytics)
+- Google sheets api
+- Graphql
+- Urql
+
 
 <br />
 <br />
@@ -78,16 +100,15 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Javascript Array Operations - New Set ||  filter || findIndex || map || flat || flatMap || reduce](https://www.youtube.com/watch?v=926HCE7Ke-A)
-- [Real Time Chat App  using Amazon Chime Javascript SDK](https://www.youtube.com/watch?v=XPFMZVtI6Sw)
+
+- [Javascript Array Operations - New Set || filter || findIndex || map || flat || flatMap || reduce](https://www.youtube.com/watch?v=926HCE7Ke-A)
+- [Real Time Chat App using Amazon Chime Javascript SDK](https://www.youtube.com/watch?v=XPFMZVtI6Sw)
 - [React Uncontrolled input , Memory Leak , key props and bad setstate warnings Fixed](https://www.youtube.com/watch?v=MiLBu1o7t2s)
 - [Smargit Advance Functionalities](https://www.youtube.com/watch?v=4IDDIUls56c)
 - [Firebase Hosting - CICD](https://www.youtube.com/watch?v=uIytYFoLDkk)
 <!-- YOUTUBE:END -->
 
 ---
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFarhan&layout=compact)
 
@@ -142,4 +163,3 @@ COMING SOON
 [restaurantrepo]: https://github.com/MrFarhan/Front-end-web-UI-using-bootstrap-4
 [reactsimplechatbotlink]: https://react-simple-chatbot.surge.sh
 [reactsimplechatbotrepo]: https://github.com/MrFarhan/React-Chat-Widget
-
