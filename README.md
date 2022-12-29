@@ -103,7 +103,7 @@
 - [Host MERN app on EC2](https://www.youtube.com/watch?v=xQshKLy0K4M)
 - [Host Reactjs app for free - Free Hosting - Vercel](https://www.youtube.com/watch?v=oIH2UPT_NAw)
 - [Host server for free - Heroku alternative  -  Railway app server deployment](https://www.youtube.com/watch?v=l90pDvfDOK0)
-- [Netlify hosting](https://www.youtube.com/watch?v=zbbvLf6jbD8)
+- [Host your React Website for free on Netlify](https://www.youtube.com/watch?v=zbbvLf6jbD8)
 - [Javascript Array Operations - New Set ||  filter || findIndex || map || flat || flatMap || reduce](https://www.youtube.com/watch?v=926HCE7Ke-A)
 <!-- YOUTUBE:END -->
 
