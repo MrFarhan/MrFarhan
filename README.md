@@ -100,11 +100,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Solve C# Problems Statement - 01](https://www.youtube.com/watch?v=_mANFyf3x88)
 - [Chatgpt with Nodejs and Reactjs](https://www.youtube.com/watch?v=3ROkq1QNP3g)
 - [Host MERN app on EC2](https://www.youtube.com/watch?v=xQshKLy0K4M)
 - [Host Reactjs app for free - Free Hosting - Vercel](https://www.youtube.com/watch?v=oIH2UPT_NAw)
 - [Host server for free - Heroku alternative  -  Railway app server deployment](https://www.youtube.com/watch?v=l90pDvfDOK0)
-- [Host your React Website for free on Netlify](https://www.youtube.com/watch?v=zbbvLf6jbD8)
 <!-- YOUTUBE:END -->
 
 ---
