@@ -100,7 +100,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Solve C# Problems Statement - 01](https://www.youtube.com/watch?v=_mANFyf3x88)
+- [C# / C++ Problem - Ramesh’s basic salary is input through the keyboard, Calculate his gross salary](https://www.youtube.com/watch?v=_mANFyf3x88)
 - [Chatgpt with Nodejs and Reactjs](https://www.youtube.com/watch?v=3ROkq1QNP3g)
 - [Host MERN app on EC2](https://www.youtube.com/watch?v=xQshKLy0K4M)
 - [Host Reactjs app for free - Free Hosting - Vercel](https://www.youtube.com/watch?v=oIH2UPT_NAw)
