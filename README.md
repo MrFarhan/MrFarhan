@@ -100,11 +100,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Visual Studio terminal auto close fixed, C++ , C#](https://www.youtube.com/watch?v=ZjqXaANoZdI)
 - [C# / C++ Problem - Ramesh’s basic salary is input through the keyboard, Calculate his gross salary](https://www.youtube.com/watch?v=_mANFyf3x88)
 - [Chatgpt with Nodejs and Reactjs](https://www.youtube.com/watch?v=3ROkq1QNP3g)
 - [Host MERN app on EC2](https://www.youtube.com/watch?v=xQshKLy0K4M)
 - [Host Reactjs app for free - Free Hosting - Vercel](https://www.youtube.com/watch?v=oIH2UPT_NAw)
-- [Host server for free - Heroku alternative  -  Railway app server deployment](https://www.youtube.com/watch?v=l90pDvfDOK0)
 <!-- YOUTUBE:END -->
 
 ---
