@@ -100,11 +100,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The distance between two cities &lpar;in km.&rpar; is input through the keyboard. Write a program to convert](https://www.youtube.com/watch?v=n2tR8AOoE2E)
 - [Visual Studio terminal auto close fixed, C++ , C#](https://www.youtube.com/watch?v=ZjqXaANoZdI)
 - [C# / C++ Problem - Ramesh’s basic salary is input through the keyboard, Calculate his gross salary](https://www.youtube.com/watch?v=_mANFyf3x88)
 - [Chatgpt with Nodejs and Reactjs](https://www.youtube.com/watch?v=3ROkq1QNP3g)
 - [Host MERN app on EC2](https://www.youtube.com/watch?v=xQshKLy0K4M)
-- [Host Reactjs app for free - Free Hosting - Vercel](https://www.youtube.com/watch?v=oIH2UPT_NAw)
 <!-- YOUTUBE:END -->
 
 ---
