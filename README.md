@@ -100,11 +100,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Radius of circle is input through the keyboard calculate area &amp; circumference of circle || let us c](https://www.youtube.com/watch?v=9QfRyIv9usc)
+- [Length and breath of a rectangle and radius of a circle are input through the keyboard || let us c](https://www.youtube.com/watch?v=h0-VVw6xo3Y)
+- [Temperature of a city in Fahrenheit degrees is input through the keyboard c# program || let us c](https://www.youtube.com/watch?v=Hdlu1MwNTEc)
 - [Marks obtained by a student in five different subjects are input through the keyboard || let us c](https://www.youtube.com/watch?v=UHfWI0v4afk)
 - [The distance between two cities &lpar;in km.&rpar; is input through the keyboard. Write a program to convert](https://www.youtube.com/watch?v=n2tR8AOoE2E)
-- [Visual Studio terminal auto close fixed, C++ , C#](https://www.youtube.com/watch?v=ZjqXaANoZdI)
-- [C# / C++ Problem - Ramesh’s basic salary is input through the keyboard, Calculate his gross salary](https://www.youtube.com/watch?v=_mANFyf3x88)
-- [Chatgpt with Nodejs and Reactjs](https://www.youtube.com/watch?v=3ROkq1QNP3g)
 <!-- YOUTUBE:END -->
 
 ---
