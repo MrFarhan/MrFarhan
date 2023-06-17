@@ -100,11 +100,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Predict the output C#](https://www.youtube.com/watch?v=ySCekrJL9bk)
+- [Print the number that are divisible by 2 and 3 in C#](https://www.youtube.com/watch?v=z3iv_CCMMyI)
+- [Fibonacci sequence in C#](https://www.youtube.com/watch?v=s-vRwvUNdPE)
 - [Radius of circle is input through the keyboard calculate area &amp; circumference of circle || let us c](https://www.youtube.com/watch?v=9QfRyIv9usc)
 - [Length and breath of a rectangle and radius of a circle are input through the keyboard || let us c](https://www.youtube.com/watch?v=h0-VVw6xo3Y)
-- [Temperature of a city in Fahrenheit degrees is input through the keyboard c# program || let us c](https://www.youtube.com/watch?v=Hdlu1MwNTEc)
-- [Marks obtained by a student in five different subjects are input through the keyboard || let us c](https://www.youtube.com/watch?v=UHfWI0v4afk)
-- [The distance between two cities &lpar;in km.&rpar; is input through the keyboard. Write a program to convert](https://www.youtube.com/watch?v=n2tR8AOoE2E)
 <!-- YOUTUBE:END -->
 
 ---
