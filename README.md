@@ -91,10 +91,11 @@
 - Graphql
 - Urql
 
+### I also have understanding of following languages:
 
-<br />
-<br />
-
+- C#
+- Dotnet
+- Python
 ---
 
 ### 📺 Latest YouTube Videos
