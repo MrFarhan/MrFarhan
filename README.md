@@ -1,4 +1,4 @@
-## Hi there, I'm Farhan 👋 A Global Trading Executive, believe that a developer having knowledge of Commerce and business can deliver the best of the best :
+## Hi there, I'm Farhan 👋 Fullstack Developer :
 
 ![](https://komarev.com/ghpvc/?username=MrFarhan)
 
