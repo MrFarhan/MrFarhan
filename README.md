@@ -101,11 +101,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [React Native Network Debugging: Uncover API Secrets in Android Studio](https://www.youtube.com/watch?v=cxx3uAwTCHQ)
 - [Generate web page / Games with AI with live preview | Free](https://www.youtube.com/watch?v=Pn6sOKzfXT0)
 - [Leetcode 27. |  Javascript Problems Solving |  Remove Element](https://www.youtube.com/watch?v=OlsY_CzH1Cw)
 - [Custom Debounce - Javascript | React  #javascript #coding](https://www.youtube.com/watch?v=SBjknu8WyZM)
 - [React useState hook is called conditionally - #javascript #reactjs #coding](https://www.youtube.com/watch?v=BSEnm4-1mgg)
-- [Can React Key create a critical bug ?](https://www.youtube.com/watch?v=Z7UY2NgBLUo)
 <!-- YOUTUBE:END -->
 
 ---
