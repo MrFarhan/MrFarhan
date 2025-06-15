@@ -1,101 +1,83 @@
-## Hi there, I'm Farhan 👋 Fullstack Developer :
+## 👋 Hi there, I'm Farhan — Fullstack Developer
 
-![](https://komarev.com/ghpvc/?username=MrFarhan)
+![Profile Views](https://komarev.com/ghpvc/?username=MrFarhan&color=blueviolet)
 
-#### Achievement in Commerce / Business Field:
+---
 
-- Done my PGD in Business / Commerce.
-- Have experience in working with different corporate firms related to finance.
-- Microsoft certified Ms Word and Ms Excel Specialist
+### 🧠 Achievements in Commerce / Business
 
-#### Achievement in the ~~hello~~ 🤣 world of web development:
+- 🏅 PGD in Business / Commerce  
+- 💼 Experience with corporate firms in finance  
+- 🧾 Microsoft Certified in MS Word & MS Excel
 
-- MERN stack certification
-- Google Certified Conversational AI Chatbot Developer
-- Delivered different NLP based chat bots for different individuals on freelancing platforms
+---
 
-#### What i am currently working on:
+### 👨‍💻 Achievements in Web Development
 
-- Focusing on delivering full stack hybrid applications and created following testing applications for my portfolio:
+- 📜 MERN Stack Certified  
+- 🤖 Google Certified Conversational AI Chatbot Developer  
+- 🧠 Delivered various NLP-based chatbots via freelancing platforms
 
-  - [Attendance Management System - Live][attendancelink] - [Repo][attendancerepo]
-  - [Campus Recruitment System - Live][campuslink] - [Repo][campusrepo]
-  - [Basic COVID-19 Stats app - Live][covid19link] - [Repo][covid19repo]
-  - [Blood Bank - Live][bloodbanklink] - [Repo][bloodbankrepo]
-  - [SpaceX using graphql - Live][spacex] - [Repo][spacexrepo]
-  - [Expense Tracker - Live][expensetrackerlink] - [Repo][expensetrackerrepo]
-  - [Quiz App - Live][quizlink] - [Repo][quizrepo]
-  - [CRUD Todo using Firebase][firebasetodolink] - [Repo][firebasetodorepo]
-  - [Todo using Alpine & Tailwind - Live][alpinelink] - [Repo][alpinerepo]
-  - [Ecommerce App without third party library (i.e bootstrap etc) - Live][bazarlink] - [Repo][bazarrepo]
-  - [React Simple Chatbot - Live][reactsimplechatbotlink] - [Repo][reactsimplechatbotrepo]
-  - [Heroku Server - Live][herokuserverlink] - [Repo][herokuserverrepo]
-  - [restaurant Website - Live][restaurantlink] - [Repo][restaurantrepo]
+---
 
-  - Todo using Mongodb - [Repo][mongotodorepo]
+### 🚀 Currently Working On
 
-##### Future Plans:
+I'm building and deploying fullstack hybrid apps. Here's a glimpse of my recent work:
 
-- To be the successful Youtuber.
-- Have my own team of professional devs.
-- Contribute to the community as much as possible
+| Project | Live | Repo |
+|--------|------|------|
+| Attendance Management System | [Live][attendancelink] | [Repo][attendancerepo] |
+| Campus Recruitment System | [Live][campuslink] | [Repo][campusrepo] |
+| COVID-19 Stats App | [Live][covid19link] | [Repo][covid19repo] |
+| Blood Bank App | [Live][bloodbanklink] | [Repo][bloodbankrepo] |
+| SpaceX GraphQL | [Live][spacex] | [Repo][spacexrepo] |
+| Expense Tracker | [Live][expensetrackerlink] | [Repo][expensetrackerrepo] |
+| Quiz App | [Live][quizlink] | [Repo][quizrepo] |
+| Firebase Todo | [Live][firebasetodolink] | [Repo][firebasetodorepo] |
+| Todo - Alpine & Tailwind | [Live][alpinelink] | [Repo][alpinerepo] |
+| Ecommerce (No Libs) | [Live][bazarlink] | [Repo][bazarrepo] |
+| React Simple Chatbot | [Live][reactsimplechatbotlink] | [Repo][reactsimplechatbotrepo] |
+| Heroku Server | [Live][herokuserverlink] | [Repo][herokuserverrepo] |
+| Restaurant Website | [Live][restaurantlink] | [Repo][restaurantrepo] |
+| MongoDB Todo | — | [Repo][mongotodorepo] |
 
-### Connect with me:
+---
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Farhan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### 🔮 Future Goals
 
-<br />
+- 🎥 Become a successful YouTuber  
+- 👨‍💻 Lead a team of professional developers  
+- 🌍 Actively contribute to the developer community
 
-<br />
+---
 
-### Technologies / Languages / Tools i have worked on:
+## 🤝 Connect With Me
 
--- Frontend --
-- Html
-- Css
-- Scss
-- Javascript
-- ReactJs
-- NextJs
-- AlpineJs
-- Gatsby
-- Bootstrap
-- Material UI
-- Tailwind CSS
-- Antd
+[![Website](https://img.shields.io/badge/Portfolio-Visit-informational?style=flat&logo=google-chrome&color=0abde3)](https://muhammadfarhan0123.wixsite.com/portfolio)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&color=ff0000)](https://www.youtube.com/channel/UClA4EpwMxWB9X93T7sib76Q)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/@FarhanExecutive)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-farhan-517825111/)
 
--- Backend / DBs -- 
-- Nodejs / Express
-- Mongodb
-- MySQL
-- AWS
 
--- Hosting --
-- Firebase
-- AWS Amplify
-- Netlify
-- Surge
-- GH-pages
+---
 
--- Other version controlling / Testing / Utilities --
-- Github (with CICD)
-- Gitlab
-- Bitbucket
-- Sanity (Headless CMS)
-- Sentry (Error Tracking)
-- Matomo (Alternative of Google Analytics)
-- Google sheets api
-- Graphql
-- Urql
+### 🛠️ Technologies & Tools
 
-### I also have understanding of following languages:
+**Frontend**  
+`HTML`, `CSS`, `SCSS`, `JavaScript`, `ReactJS`, `NextJS`, `Gatsby`, `AlpineJS`, `Bootstrap`, `Tailwind`, `Material UI`, `Ant Design`
 
-- C#
-- Dotnet
-- Python
+**Backend / Databases**  
+`Node.js`, `Express`, `MongoDB`, `MySQL`, `AWS`
+
+**Hosting**  
+`Firebase`, `AWS Amplify`, `Netlify`, `Surge`, `GitHub Pages`
+
+**Other Tools**  
+`GitHub`, `GitLab`, `Bitbucket`, `Sanity`, `Sentry`, `Matomo`, `Google Sheets API`, `GraphQL`, `URQL`
+
+**Familiar With**  
+`Python`, `C#`, `.NET`
+
 ---
 
 ### 📺 Latest YouTube Videos
@@ -110,21 +92,28 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFarhan&layout=compact)
-
----
-
-![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFarhan&count_private=true&show_icons=true&theme=blueberry)
-
----
-
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+📘 [A Step-by-Step Guide to Publish Your App to the Play Store (Internal Testing)](https://medium.com/@muhammadfarhan012345/a-step-by-step-guide-to-publish-your-app-to-the-play-store-faba2340c6da)  
+🛠 Learn how to publish your Android app via internal testing with screenshots and practical steps.
 
-COMING SOON
+📘 [Lex Web UI Customisation (Hide Mic, Background Color, Lex v1 to v2)](https://medium.com/@muhammadfarhan012345/lex-web-ui-customisation-8dec517c3498)  
+🤖 A hands-on guide to fully customizing AWS Lex Web UI — mic, background, and version migration.
 
-<!-- BLOG-POST-LIST:END -->
+🖋 Author Profile on Medium → [@muhammadfarhan012345](https://medium.com/@muhammadfarhan012345)
+
+---
+
+### 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFarhan&layout=compact&theme=blueberry)
+
+---
+
+
+### 💬 Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 
@@ -132,10 +121,7 @@ COMING SOON
 [twitter]: https://twitter.com/@FarhanExecutive
 [youtube]: https://www.youtube.com/channel/UClA4EpwMxWB9X93T7sib76Q
 [linkedin]: https://www.linkedin.com/in/muhammad-farhan-517825111/
-[webdevplaylist]: https://www.youtube.com/channel/UClA4EpwMxWB9X93T7sib76Q
-[jsplaylist]: https://www.youtube.com/channel/UClA4EpwMxWB9X93T7sib76Q
-[cssplaylist]: https://www.youtube.com/channel/UClA4EpwMxWB9X93T7sib76Q
-[reactplaylist]: https://www.youtube.com/channel/UClA4EpwMxWB9X93T7sib76Q
+
 [attendancelink]: https://attendance-management-73890.web.app/
 [attendancerepo]: https://github.com/MrFarhan/Attendance-Management-System
 [campuslink]: https://campus-recruitment-syste-2c8e3.web.app/
